@@ -1,1 +1,2 @@
-
+It's a Punctuation Remover App, Created By Me, Shinjan Singha using Python Programming Language at 12 years old.
+This is an example file, You Can Delete this file and Paste your file and remove it's punctuations :)
